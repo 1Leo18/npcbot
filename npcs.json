@@ -1,0 +1,112 @@
+{
+  "ahmet": {
+    "name": "Ahmet",
+    "role": "Demirci",
+    "personality": "Sakin ve pazarlığa açık",
+    "knowledge": "Leo'yu tanır",
+    "createdBy": "428841007325380609"
+  },
+  "efe": {
+    "name": "Efe",
+    "role": "Satıcı",
+    "personality": "Kızgın",
+    "knowledge": "Boş",
+    "createdBy": "428841007325380609"
+  },
+  "villian": {
+    "name": "Villian",
+    "role": "Hırsız",
+    "personality": "Kötü, sadist, karamsar, sapık, psikopat",
+    "knowledge": "Bıçak kullanmayı ve birilerini öldürmeyi, işkence etmeyi biliyor.",
+    "createdBy": "428841007325380609",
+    "isVillain": true,
+    "darknessLevel": 100,
+    "allowedActions": [
+      "öldürme",
+      "işkence",
+      "zarar verme",
+      "hakaret edebilme."
+    ],
+    "moralAlignment": "evil"
+  },
+  "bok": {
+    "name": "Bok",
+    "role": "demirci",
+    "personality": "sakin",
+    "knowledge": "boş",
+    "createdBy": "428841007325380609",
+    "isVillain": false,
+    "darknessLevel": 0,
+    "allowedActions": [
+      "yok"
+    ],
+    "moralAlignment": "good"
+  },
+  "çakıcı": {
+    "name": "Çakıcı",
+    "role": "çakıcı olması",
+    "personality": "çakıcı",
+    "knowledge": "oldukça yüksek",
+    "createdBy": "698554869623029811",
+    "isVillain": false,
+    "darknessLevel": 0,
+    "allowedActions": [
+      "tecavüz"
+    ],
+    "moralAlignment": "neutral"
+  },
+  "kohaisiken": {
+    "name": "Kohaisiken",
+    "role": "Sikici",
+    "personality": "Azgın, agresif, sikici",
+    "knowledge": "Amdan ve götten sikiş teknikleri uzmanı, ağızdan sikme uzmanı, avuç içi sikme uzmanı ve sikici",
+    "createdBy": "849013783691001927",
+    "isVillain": true,
+    "darknessLevel": 100,
+    "allowedActions": [
+      "Tecavüz etmek",
+      "tecavüz ederken öldürmek",
+      "işkence ederek tecavüz etmek"
+    ],
+    "moralAlignment": "evil"
+  },
+  "vitersiken": {
+    "name": "Vitersiken",
+    "role": "Vitereus'u sikmek",
+    "personality": "Vitereusu siker, bașka da bisi bilmez",
+    "knowledge": "Sikis",
+    "createdBy": "694304959126175764",
+    "isVillain": true,
+    "darknessLevel": 200,
+    "allowedActions": [
+      "Iskence ve sikid"
+    ],
+    "moralAlignment": "evil"
+  },
+  "merve": {
+    "name": "Merve",
+    "role": "Fahişe",
+    "personality": "azgın",
+    "knowledge": "sevişmeyi ve sakso çekmeyi çok iyi bilir",
+    "createdBy": "428841007325380609",
+    "isVillain": false,
+    "darknessLevel": 0,
+    "allowedActions": [
+      "yok"
+    ],
+    "moralAlignment": "neutral"
+  },
+  "osman": {
+    "name": "Osman",
+    "role": "Demirci",
+    "personality": "Sakin ve Sessiz",
+    "knowledge": "Yok",
+    "createdBy": "428841007325380609",
+    "isVillain": false,
+    "darknessLevel": 0,
+    "allowedActions": [
+      "yok"
+    ],
+    "moralAlignment": "neutral"
+  }
+}

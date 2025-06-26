@@ -1,0 +1,16 @@
+{
+  "ahmet": [
+    {
+      "name": "balta",
+      "price": 50,
+      "currency": "bakır",
+      "addedAt": 1750809752487
+    },
+    {
+      "name": "kazma",
+      "price": 50,
+      "currency": "bakır",
+      "addedAt": 1750810342981
+    }
+  ]
+}

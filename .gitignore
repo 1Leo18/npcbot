@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 
 .env
 
 *.log
 .DS_Store
+=======
+
+.env
+
+*.log
+.DS_Store
+>>>>>>> 8de524d (Tüm değişiklikler ve data klasörü eklendi)
 Thumbs.db 

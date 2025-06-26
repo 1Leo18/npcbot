@@ -1,0 +1,108 @@
+{
+  "ahmet": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634503,
+    "currentGoal": null,
+    "isInteracting": false,
+    "needs": {
+      "hunger": 30,
+      "thirst": 35,
+      "bladder": 40,
+      "energy": 54
+    },
+    "lastActivity": "clean"
+  },
+  "efe": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634504,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "villian": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634504,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "bok": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634505,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "çakıcı": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634505,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  ".villain naber!": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 97.5,
+    "lastAction": 1750855789513,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "just siken": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 99,
+    "lastAction": 1750855789514,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "kohaisiken": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634506,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "vitersiken": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634506,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "merve": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0,
+    "lastAction": 1750940634507,
+    "currentGoal": null,
+    "isInteracting": false
+  },
+  "osman": {
+    "currentActivity": "idle",
+    "location": "unknown",
+    "mood": "neutral",
+    "energy": 0.5,
+    "lastAction": 1750940634507,
+    "currentGoal": null,
+    "isInteracting": false
+  }
+}

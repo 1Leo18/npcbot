@@ -1,0 +1,120 @@
+{
+  "ahmet": {
+    "698554869623029811": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "selam Ahmnet"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Başını kaldırıp, bana bakıyor.*\n\n***''Selam...  Yardımcı olabilirim?''***\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "buraların yabancısıyım bana her hangi bir bilgi vermen hayatımı kurtarabilir.. çok bişlinmezlik içindeyim"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Derin bir nefes alıp, etrafı süzer.*\n\n***''Bu kasaba...  insanların çoğu iyi niyetlidir ama dikkatli olmakta fayda var.  Özellikle gece vakti dışarı çıkmamaya çalışın.  Eğer bir şeye ihtiyacınız varsa, size yardımcı olabilirim.  Ne tür bir yardım arıyorsunuz?''***\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "her hangi birr şey.. ekmek para belki silah.. en önemlisi at her şeye ihtiyacım var"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Etrafa bakınır, sonra tezgahın yanındaki bir sandalyeye oturur.*\n\n***''Anlıyorum...  Zor durumdasınız.  Şu anlık ekmek ve para konusunda yardımcı olamam ama silah konusunda...  Bakın, satış listemde şu ürünler var:''***\n\n\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "param yok.."
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Derin bir nefes alır ve ellerini tezgaha koyar.*\n\n***''Anlıyorum... o zaman şu an için size yardımcı olamam.  Eğer paraya ihtiyacınız varsa, belki kasabadaki işlerde çalışabilirsiniz.  Birçok yer işçi arıyor.  Ya da...  başka bir şey mi arıyorsunuz?''***\n"
+          }
+        ]
+      }
+    ],
+    "428841007325380609": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "***''Balta sat bana 10 bakıra''***"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Ahmet, kaşlarını çatarak müşteriye bakar.  Sonra tezgahtaki baltalardan birini gösterir.*\n\n***''10 bakıra mı?  Hayır efendim, o kadar ucuza veremem.  Balta 50 bakırdır.''*** [FIYAT:50:bakır] [EŞYA:balta]\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "***''Neyse, nasılsın ahmet ?''***"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Ahmet, baltayı tezgaha dikkatlice koyar ve müşteriye karşı daha yumuşak bir ifadeyle bakar.*\n\n***''İyiyim, teşekkür ederim.  Siz nasılsınız?''***\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "sa"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "*Ahmet, müşteriye hafifçe gülümser.*\n\n***''Bir şey daha alabilir miyim?''***\n"
+          }
+        ]
+      }
+    ]
+  }
+}

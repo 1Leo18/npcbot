@@ -1,0 +1,8 @@
+{
+  "ahmet": {
+    "primary": "\"Ticaret yaparak zengin olmak\"\n.npc-hedef-ayarla Ahmet immediate \"Yeni mallar satmak\"\n.npc-duygu-ayarla Ahmet happiness 80\n.npc-duygu-ayarla Ahmet trust 60\n.npc-kanal-ekle Ahmet 1386432899619750019\n.npc-zaman-ayarla Ahmet 1\n.npc-bağımsız-başlat Ahmet",
+    "secondary": [],
+    "immediate": "\"Yeni mallar satmak\"",
+    "longTerm": []
+  }
+}
