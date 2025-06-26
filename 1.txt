@@ -1,3 +1,1 @@
-bahsettiğin değişiklikleri yap ama son 3-5 olayı değil son 10 olayı sahnede tutsun ve her yaşanan olayı hafızasına atsın. Ayrıca sadece 2-3 katılımcı değil daha fazla katılımcıyla da aynı anda konuşabilsin.
 
-curl "https://generativelanguage.googleapis.com/v1beta/models?key=AIzaSyCbLPxQIofMbPOsEFFrFl14wBDJYCXX_y0"curl "https://generativelanguage.googleapis.com/v1beta/models?key=AIzaSyCbLPxQIofMbPOsEFFrFl14wBDJYCXX_y0"
