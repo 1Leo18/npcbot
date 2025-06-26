@@ -1,0 +1,10 @@
+{
+  "ahmet": {
+    "happiness": 80,
+    "anger": 0,
+    "fear": 0,
+    "trust": 60,
+    "curiosity": 50,
+    "dominantEmotion": "happiness"
+  }
+}

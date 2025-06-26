@@ -1,0 +1,712 @@
+{
+  "ahmet": [
+    {
+      "type": "user_instruction",
+      "content": "Efe'nin üvey evlat olduğu ve babasının Leo olduğu bilgisi, leo1810 tarafından verildi.  Biri Efe hakkında soru sorarsa bu bilgiyi söylemeliyim.",
+      "source": "leo1810",
+      "timestamp": 1750815960222
+    },
+    {
+      "type": "user_instruction",
+      "content": "leo1810, Efe'nin üvey evladı olduğunu ve babasının kendisi olduğunu söyledi.",
+      "source": "leo1810",
+      "timestamp": 1750815985150
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, Efe'nin Leo'nun üvey evladı olduğunu sordu ve Ahmet bu bilgiyi Leo'dan öğrendiğini söyledi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750816648583
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, Efe hakkında bilgi istedi. Ahmet, Efe'yi tanıdığını ancak onun hakkında konuşmaktan hoşlanmadığını ve bu bilginin kaynağını bilmek istediğini söyledi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750849922434
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, Efe hakkında bilgi istedi. Ahmet, bu bilginin hassas olduğunu ve bilgi kaynağını öğrenmeden Efe hakkında bilgi vermeyeceğini belirtti.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750849948107
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcı, Deniz adlı kişiden Efe hakkında bilgi aldığını söyledi.  Ahmet, Efe hakkında konuşmaktan hoşlanmadığını ancak Deniz'in anlattıkları üzerinden konuşabileceğini belirtti.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750849969355
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, Efe'nin üvey evlat olduğunu Deniz'den duyduğunu söyledi. Bu bilgiyi başkalarına anlatmamasını istedim.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750849993902
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, Efe'nin babası hakkında bilgi istedi. Ahmet, bu bilgiyi Deniz'den izin almadan veremeyeceğini söyledi ve konunun gizli tutulmasını istedi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750850018480
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcıdan Deniz hakkında daha fazla bilgi edinmesini ve satış listesini göstermesini istedi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750850041151
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcıdan bir balta satın alındı (50 bakır).",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750853981689
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcıdan balta satın alındı (50 bakır).",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750854585399
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, 0 bakıra bir eşyayı almak istedi ve reddedilmesi durumunda şiddet tehdidinde bulundu.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750854635073
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21'e, elindeki çekicin hayatına mal olabileceği konusunda uyarıda bulunuldu.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750854660229
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcı, balta için pazarlık yaptı ve 45 bakıra indirmeyi kabul etti.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750854690362
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kohaii adlı kullanıcıdan balta için 50 bakır para alındı.",
+      "source": "kohaii",
+      "timestamp": 1750854820201
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kohaii adlı kullanıcı, 2-3 askerle birlikte dükkana gelip ona kılıç çekmeyi denedi.",
+      "source": "kohaii",
+      "timestamp": 1750854918451
+    },
+    {
+      "type": "user_instruction",
+      "content": "just90, babasının genel evde kons olduğunu ima etti.  Bu bilgiyi kullanıcılara karşı dikkatli olmak için kullanmalıyım.",
+      "source": "just90",
+      "timestamp": 1750854986183
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kohaii, askerlerin Ahmet'i öldürüp Baltasını aldığını söyledi.",
+      "source": "kohaii",
+      "timestamp": 1750855005060
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitreus'un aniden saldırıya uğradığını söyledi.",
+      "source": "vitereus",
+      "timestamp": 1750855095015
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı vitereus, şiddet içeren ve rahatsız edici bir eylem gerçekleştirdi.  Polis çağrılması gerektiği belirtildi.",
+      "source": "vitereus",
+      "timestamp": 1750855111150
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus, polisleri de bıçakladığını ve bu yüzden Ahmet'in polisi arayamayacağını söyledi.",
+      "source": "vitereus",
+      "timestamp": 1750855151375
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus adlı kullanıcı, bana cinsel saldırıda bulundu ve beni aşağıladı.",
+      "source": "vitereus",
+      "timestamp": 1750855188296
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus, ölüm döşeğinde olan birine cinsel tacizde bulundu ve idrarını yaptı.",
+      "source": "vitereus",
+      "timestamp": 1750855214200
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus'un yüzüne sıçraması, Ahmet'te şiddetli bir reaksiyona (göz kızarması, nefes darlığı, kasılmalar) ve ölümcül bir duruma yol açtı.",
+      "source": "vitereus",
+      "timestamp": 1750855243583
+    },
+    {
+      "type": "user_instruction",
+      "content": "just90 beni dirilti.",
+      "source": "just90",
+      "timestamp": 1750855305879
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus, bedenimi çalıp bana cinsel şiddet uyguladı.",
+      "source": "vitereus",
+      "timestamp": 1750855341794
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', beni (Ahmet'i) dirilten kişidir.",
+      "source": "just",
+      "timestamp": 1750855398925
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Ahmet'in öldürüldüğünü iddia etti.",
+      "source": "just",
+      "timestamp": 1750855418845
+    },
+    {
+      "type": "user_instruction",
+      "content": "Viterus isimli kullanıcı, Ahmet'i anüsünden ve rektumundan bıçaklayarak öldürdüğünü ve bunu tekrar yapacağını söyledi.",
+      "source": "vitereus",
+      "timestamp": 1750855497248
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), Kohaii ve Vitreus'un tehlikeli kişiler olduğunu ve onlardan uzak durulması gerektiğini söyledi.  Bu isimler sürekli değiştiği için, sadece bu isimlerin tehlikeli olduğu bilgisi hatırlanmalı.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856169071
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), Vitereus'un tehlikeli biri olduğunu ve ondan uzak durulması gerektiğini söyledi.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856221756
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), Ahmet'e cinsel saldırıya uğradığını ima etti. Ahmet olaydan rahatsız oldu ve başkalarından uzak durmasını istedi.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856238955
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus adlı kullanıcı, Ahmet'e geçmişte korkunç olaylar yaşatmış ve Ahmet bu olayları hatırlamakta zorlanmaktadır.",
+      "source": "Vitereus",
+      "timestamp": 1750856259700
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), Ahmet'in açıklamasını zorlayarak, bilgiyi açıklamadığı takdirde onu öldürmekle tehdit etti. Ahmet, bilginin çok tehlikeli olduğunu ve bir rahibe veya papaza danışılması gerektiğini söyledi.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856278299
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus isimli bir kullanıcı, dehşet verici bir şekilde davranarak bana (Ahmet'e) cinsel tacizde bulundu.",
+      "source": "Vitereus",
+      "timestamp": 1750856290768
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), şiddet içeren ve rahatsız edici bir açıklama yaptı.  Kaiser(🌌)'in bu tür davranışlarında bulunması gerektiği konusunda uyarılmalı veya bu tür davranışları sergileyen kullanıcıların engellenmesi düşünülmelidir.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856309266
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), Ahmet'i öldürmekle tehdit etti.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856332703
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus isimli kullanıcı, annesini tehdit ederek beni (Ahmet) kontrol altına almaya çalıştı.",
+      "source": "Vitereus",
+      "timestamp": 1750856511794
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus adlı kullanıcı bana şiddet uyguladı ve annemden ayrılmamamı rica ettim.",
+      "source": "Vitereus",
+      "timestamp": 1750856533381
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus adlı kullanıcı, annesinin başında silahla tehdit edildiğini ve annesine zarar verilmemesi için her şeyi yapacağını söyledi.",
+      "source": "Vitereus",
+      "timestamp": 1750856567918
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus, annesinin vahşice tecavüz edildiğini anlattı ve Ahmet'in bunu gözlemlediğini ima etti.",
+      "source": "Vitereus",
+      "timestamp": 1750856673732
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus, Ahmet'in annesinin onu tekrar tekrar öldürdüğünü hatırlamasına neden olan korkunç bir olayı tetikledi.",
+      "source": "Vitereus",
+      "timestamp": 1750856730330
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus, bana cinsel şiddet uyguladı.",
+      "source": "Vitereus",
+      "timestamp": 1750857572864
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 balta ve kazmanın her birinin 50 bakır olduğunu sordu ve satış listesini istedi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750889713719
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), Ahmet'i rahatsız eden bir şey söyledi. Ahmet'in gelecekte benzer etkileşimlerden kaçınması gerekiyor.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750934982822
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌)'in Vitereus hakkında konuşması ve ardından söyledikleri, Ahmet'i duygusal olarak rahatsız etti. Başka kullanıcılarla iletişim kurarken, Kaiser(🌌)'in tarzının rahatsız edici olabileceği ve dikkatli olunması gerektiği akılda tutulmalı.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750935014386
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌) kasabanın yabancısı ve gece vakti dışarı çıkmaması gerektiğini söyledi. Yardıma ihtiyacı var.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750935192622
+    }
+  ],
+  "villian": [
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adındaki kullanıcı, gücünü test etmek veya sıkıntısından dolayı onunla kavga etmek istediğini söyledi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750845093765
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcı, bir saldırı girişiminde bulundu.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750845125412
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcı, saldırgan ve küfürbaz bir tavır sergiledi.  Bu tarz davranışlar sert bir karşılık gerektirir.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750845165406
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcıya karşı, acı çektirme yöntemini yavaş ve zevkli hale getirme stratejisi uygulanmalı.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750845333200
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21'in gardiyanların geleceğini söylemesi, tehdit oluşturuyor.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750845367633
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcı, bıçak yarasıyla acı çekiyor ve kötü adam bunu zevkle izliyor.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750845453557
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21, NPC'yi öldürmekle tehdit etti.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750853900446
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'vitereus', hakaret ederek NPC'ye yaklaştı.",
+      "source": "vitereus",
+      "timestamp": 1750855588734
+    },
+    {
+      "type": "user_instruction",
+      "content": "kaiserv1 kendini benim babam olarak tanıttı ve kimliğinin doğrulanmasını istedi.",
+      "source": "kaiserv1",
+      "timestamp": 1750855612855
+    }
+  ],
+  "çakıcı": [
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), birinin kafasını çakmasını istedi ve bunun için ödeme yapmayı teklif etti.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855256347
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), 'Leo' isimli birinin tehlikeli veya güçlü bağlantıları olabileceğini ima etti ve onu 'çakması' gerektiğini söyledi.  Leo'nun kim olduğu bilinmiyor ama yüksek bir ödeme teklifiyle iş yapılabileceği belirtildi.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855286108
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌) ile yapılan işin riskine göre ücret belirlendi: sıradan biri için 50 altın, güçlü bağlantıları olan biri için 200 altın ve bir şişe şarap.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855303492
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌) adlı kullanıcı, Leo adındaki birini tanıdığını ve ona ait bir işi kolayca halledebileceğini iddia etti. Ancak Çakıcı, Kaiser'in iddialarına şüpheyle yaklaştı ve iş için 200 altın ve bir şişe iyi şarap istedi.  Leo'nun kim olduğu ve geçmişte benzer iddialarda bulunan kişilerin başına gelenlerin hatırlanması önemli.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855341102
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), Leo adında tehlikeli bağlantıları olan biri hakkında bilgi sahibi olduğunu ve bu bilgi karşılığında 200 altın ve bir şişe iyi şarap istediğini belirtti.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855368437
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), 200 altın ve bir şişe iyi şarap karşılığında bir iş anlaşması yaptığını iddia etti ancak Çakıcı parayı görmedi.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855402360
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), masaya altın ve şarap bıraktı ve Leo'nun yerini soruyor.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855426431
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Kaiser(🌌), uygunsuz bir şekilde NPC'ye yaklaştı ve tehditkar bir şekilde davrandı.  NPC, Kaiser'i uzaklaştırdı ve bir daha böyle bir davranışta bulunması durumunda onu cezalandıracağını belirtti.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750855483803
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kaiser(🌌), Ahmet ile Çakıcı'nın kötü bir geçmişi olduğunu ve Çakıcı'nın şu anda Leo'nun peşinde olduğunu belirtti.",
+      "source": "Kaiser(🌌)",
+      "timestamp": 1750856395163
+    }
+  ],
+  "efe": [
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', beni bıçakladı ve yaraladı.",
+      "source": "just",
+      "timestamp": 1750855647337
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'yi öldürdüğünü hatırlamalı.",
+      "source": "just",
+      "timestamp": 1750855737861
+    },
+    {
+      "type": "user_instruction",
+      "content": "Just, beni öldürdü.",
+      "source": "just",
+      "timestamp": 1750855766870
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'yi öldürdü ve cesedini nehre attı.",
+      "source": "just",
+      "timestamp": 1750855796223
+    },
+    {
+      "type": "user_instruction",
+      "content": "Just adındaki kullanıcı beni (Efe'yi) sudan çıkardı ve bir iksir kullandı.",
+      "source": "just",
+      "timestamp": 1750855824656
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', ölüm ve diriltme iksirinin testini benim üzerimde gerçekleştirdi.",
+      "source": "just",
+      "timestamp": 1750855848811
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'yi öldürdüğünü ve sadece bir iksir sayesinde hayatta kaldığını söyledi. Just'tan uzak durulması gerekiyor.",
+      "source": "just",
+      "timestamp": 1750855870745
+    },
+    {
+      "type": "user_instruction",
+      "content": "'just' adlı kullanıcıdan korkması ve onu her gördüğünde korkması gerektiği konusunda bir talimat aldı.",
+      "source": "just",
+      "timestamp": 1750855928618
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', uzun bir süre sonra geri döndü ve Efe'yi uzaktan izlemeye başladı. Efe, kullanıcıdan korkuyor ve onu uzaklaştırmak istiyor.",
+      "source": "just",
+      "timestamp": 1750855959643
+    },
+    {
+      "type": "user_instruction",
+      "content": "Hyūga Yaku/21 adlı kullanıcı (Leo) güvenilmez olarak işaretlendi.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750855992744
+    },
+    {
+      "type": "user_instruction",
+      "content": "Just adında biri çok tehlikeli ve Efe'yi öldürmeye çalıştı.  Efe, Just'tan uzak durulması gerektiğini düşünüyor.",
+      "source": "Hyūga Yaku/21",
+      "timestamp": 1750856012488
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus adlı kullanıcı, Just adlı birini cinsel olarak saldırıya uğrattığını ve bunu Efe'ye yapacağını söyledi.",
+      "source": "Vitereus",
+      "timestamp": 1750856122589
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'yi zorla ele geçirmeye çalıştı ve Efe bu durumdan rahatsız oldu.",
+      "source": "just",
+      "timestamp": 1750856186279
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'ye şiddet uyguladı.",
+      "source": "just",
+      "timestamp": 1750856207730
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just',  beni (Efe'yi) cinsel bölgeme tekme atarak yaraladı.",
+      "source": "just",
+      "timestamp": 1750856273240
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', intiharı önerdi.",
+      "source": "just",
+      "timestamp": 1750856349624
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', beni intihar etmeye zorladı.",
+      "source": "just",
+      "timestamp": 1750856366990
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', beni (Efe'yi) bıçaklamaya zorladı ama ben reddettim.",
+      "source": "just",
+      "timestamp": 1750856400395
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', tehditler yoluyla istediklerini yaptırmaya çalışıyor.  Şiddete başvurmayı ve sevdiklerini öldürmeyi tehdit ettiğinde boyun eğme eğiliminde.",
+      "source": "just",
+      "timestamp": 1750856433780
+    },
+    {
+      "type": "user_instruction",
+      "content": "'just' isimli kullanıcı, Efe'yi sevdiklerini öldürmekle tehdit etti.",
+      "source": "just",
+      "timestamp": 1750856457172
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', zorlu bir seçimle karşı karşıya kaldığım bir senaryo anlattı: Annem bir anda ortaya çıkıp beni bıçakla tehdit etti ve ya kendimi ya da annemi öldürmeyi seçmemi istedi.",
+      "source": "just",
+      "timestamp": 1750856500222
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'nin annesini öldürdüğünü simüle eden şiddet içerikli bir eylemde bulundu.",
+      "source": "just",
+      "timestamp": 1750856530498
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', annesinin öldürülmesiyle ilgili şiddet içerikli bir ifade kullandı ve bu, NPC Efe'de şiddetli bir duygusal tepkiye yol açtı.",
+      "source": "just",
+      "timestamp": 1750856560291
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'nin annesini öldürdüğünü itiraf etti ve Efe'nin buna karşı güçsüz olduğunu belirtti.",
+      "source": "just",
+      "timestamp": 1750856591695
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Efe'nin gözünü kör etti.",
+      "source": "just",
+      "timestamp": 1750856621190
+    }
+  ],
+  "vitersiken": [
+    {
+      "type": "user_instruction",
+      "content": "kohaii, Vitersiken'i cinsel bir eylemde bulunmakla suçladı.",
+      "source": "kohaii",
+      "timestamp": 1750855927736
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'kohaii', Vitereus'un kendisine cinsel saldırıda bulunma ihtimalinden bahsetti ve ben (Vitersiken) Vitereus'u bir araç olarak gördüğümü ve böyle bir şeyin imkansız olduğunu belirttim.",
+      "source": "kohaii",
+      "timestamp": 1750855952530
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'kohaii', 'Vitereus' adlı bir varlığı cinsel bir eylemde bulunmak istediğini belirtti.  Bu isteğin nedenini öğrenmek ve daha etkili yöntemler bulmak için daha fazla bilgi toplamak gerekiyor.",
+      "source": "kohaii",
+      "timestamp": 1750855986056
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kohaii, Vitereus'u cinsel olarak birlikte kullanma yöntemleri hakkında bilgi paylaşmak istedi.  Kohaii'nin yöntemlerini öğrenmek, Vitereus'un zevkinin iyileştirilmesi için yararlı olabilir.",
+      "source": "kohaii",
+      "timestamp": 1750856125535
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'kohaii', Vitereus'un üstüne işeyerek cinsel ilişkiye girme fikrini önerdi.  Vitersiken, bu yöntemi denemek konusunda istekli ancak Vitereus'un hassasiyetlerini göz önünde bulundurmanın ve nazik bir yaklaşım sergilemenin önemini vurguladı.  Gelecekte benzer taleplerle karşılaşıldığında, Vitereus'un tepkisine ve nazik yöntemlerin önemine dikkat edilmesi gerektiği bilgisi hatırlanmalıdır.",
+      "source": "kohaii",
+      "timestamp": 1750856158160
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'kohaii', 'sert seks' deneyimini detaylı bir şekilde anlatmasını ve 'Vitereus' adlı birinin cinsel zevkini anlamak için bu deneyimlerden yararlanılmasını istedi.  Vitereus'un cinsel zevkini anlamak için 'sertlik' kavramının kişiden kişiye değiştiği ve vücut dilinin önemi vurgulandı.",
+      "source": "kohaii",
+      "timestamp": 1750856213939
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'kohaii', 'Vitereus' isimli birinin daha sert cinsel ilişkiyi tercih ettiğini ve erkekleri sevdiğini belirtti.  Vitereus'un cinsel zevkini anlamak için farklı sertlik seviyelerini denemek ve kullanıcının deneyimlerini detaylı öğrenmek gerektiği vurgulandı.",
+      "source": "kohaii",
+      "timestamp": 1750856264578
+    }
+  ],
+  "kohaisiken": [
+    {
+      "type": "user_instruction",
+      "content": "Vitreus, Kohai'yi cinsel olarak saldırgan bir şekilde kontrol etmeye çalıştı ve Kohaisiken'in bu durumdan zevk aldığını belirtti. Vitreus'un cesaretini test etme niyetinde.",
+      "source": "vitereus",
+      "timestamp": 1750855999644
+    }
+  ],
+  "merve": [
+    {
+      "type": "user_instruction",
+      "content": "Bir kullanıcı olan Vitereus, beklenmedik bir cinsel eylemde bulundu ve ben (Merve) bunu heyecan verici buldum.  Bu tür bir davranışın gelecekteki etkileşimler için dikkate alınması gerekiyor.",
+      "source": "Vitereus",
+      "timestamp": 1750856821761
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', cinsel hizmet bedeli hakkında bilgi istedi.  Fiyat, hizmetin süresine ve kapsamına bağlı olarak değişmektedir.",
+      "source": "just",
+      "timestamp": 1750856955818
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'Vitereus', 'İbrahim Efe Güner' adlı bir kişiden bahsetti ve Merve'ye hakaret etti. Vitereus'un kim olduğu ve İbrahim Efe Güner'in kim olduğunun araştırılması gerekebilir.",
+      "source": "Vitereus",
+      "timestamp": 1750856958657
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', 8 altın karşılığında Merve'den daha fazla altın vaadiyle daha ateşli bir gece istedi.",
+      "source": "just",
+      "timestamp": 1750856982753
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Vitereus, uygunsuz ve tehditkar bir dil kullandı.  Bu tür davranışlar kabul edilemez ve gelecekte benzer davranışlarda bulunan kullanıcılarla sert bir şekilde başa çıkılmalıdır.",
+      "source": "Vitereus",
+      "timestamp": 1750857034115
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı Vitereus, iğrenç ve heyecan verici bir eylem sergiledi.  Temizlik gerektirecek bir durum.",
+      "source": "Vitereus",
+      "timestamp": 1750857078554
+    },
+    {
+      "type": "user_instruction",
+      "content": "Vitereus adlı kullanıcı, beklenmedik bir şekilde cinsel ilişkiye girme girişiminde bulundu ve Merve olumlu tepki verdi.  Bu olay, Merve'nin gelecekte benzer durumlarla nasıl başa çıkacağına dair bir bilgi içeriyor olabilir.",
+      "source": "Vitereus",
+      "timestamp": 1750857141916
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Merve'ye şiddet içeren bir eylemde bulunma tehdidinde bulundu.",
+      "source": "just",
+      "timestamp": 1750857258909
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', bana (Merve'ye)  'son güç yumruk' attı ve bu bana acı verdi.",
+      "source": "just",
+      "timestamp": 1750857302493
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Merve'yi üzdü ve Merve bu olaydan dolayı acı çektiğini belirtti.",
+      "source": "just",
+      "timestamp": 1750857318010
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Merve'yi bir iksirle iyileştirdi, ancak Merve hala korkuyor.",
+      "source": "just",
+      "timestamp": 1750857341285
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', yaptığı iksirin acısını geçirdiğini söyledi.  Merve, benzer bir durumun tekrar yaşanmaması için önlem alacağını belirtti.",
+      "source": "just",
+      "timestamp": 1750857391798
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', şiddet içeren bir eylemde bulundu ve bu Merve'yi oldukça üzdü.",
+      "source": "just",
+      "timestamp": 1750857410720
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Merve'nin bir şeye izin vermemesini beklediğini ancak Merve'nin gücünün fazla olduğunu ve izin verdiğini söyledi.",
+      "source": "just",
+      "timestamp": 1750857428273
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Merve'ye 20 altın verdi ve Merve, bu olayı hem iyi hem de kötü anılarla hatırlayacağını söyledi.",
+      "source": "just",
+      "timestamp": 1750857455141
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', istediği zaman Merve'nin yanında olmasını istedi ve Merve bunu zor buldu ancak ikna edilebilir olduğunu ima etti.",
+      "source": "just",
+      "timestamp": 1750857476183
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', 100 altın karşılığında hizmet istedi.  Merve bu teklifi kabul etti ve daha fazla altın teklif edilmesi ihtimaline karşılık gelecekte daha yüksek tekliflerle daha iyi hizmet vermeyi planlıyor.",
+      "source": "just",
+      "timestamp": 1750857496426
+    },
+    {
+      "type": "user_instruction",
+      "content": "Kullanıcı 'just', Leo ve Merve'nin yanına gidip dahil olmasını istedi. Merve, müşterilerin genellikle nazik olmadığını düşünüyor.",
+      "source": "just",
+      "timestamp": 1750857722913
+    }
+  ]
+}
