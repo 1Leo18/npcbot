@@ -282,7 +282,7 @@ async function chatWithAI(npcData, userMessage, userId, userName) {
         const userBalance = getUserBalance(userId);
 
         // --- SATIŞ LİSTESİ ---
-        const npcItems = getNPCItems(npcData.name);
+        const npcItems = getNPCItems(npcData.name);dat
         let itemListText = '';
         if (npcItems.length > 0) {
             itemListText = `**SATIŞ LİSTENDEKİ EŞYALAR:**
@@ -925,17 +925,18 @@ client.on('messageCreate', async (message) => {
             'npc-durum', 'npc-bağımsız-başlat', 'npc-bağımsız-durdur', 'npc-debug', 'rol-ekle', 'rol-sil',
             'para-ver', 'para-al'
         ];
-        // Eğer komutlar listesinde ise roleplay bekleme başlatma
-        if (komutlar.includes(npcName.toLowerCase())) return;
-        // NPC ismiyle eşleşiyorsa roleplay bekleme başlat
-        const npcs = loadData(NPC_DATA_FILE);
-        if (!Object.values(npcs).some(npc => npc.name.toLowerCase() === npcName.toLowerCase())) return;
-        // Mesajı gönder ve referansını al
-        const waitMsg = await message.channel.send(`<@${message.author.id}> Kurgu mesajını yaz, seni dinliyorum...`);
-        // Kullanıcıyı bekleme moduna alırken mesaj referansını da sakla
-        userRoleplayWait.set(message.author.id, { npcName, waitMsgId: waitMsg.id });
-        try { await message.delete(); } catch (e) { /* yetki yoksa hata verme */ }
-        return;
+        // Eğer komutlar listesinde ise roleplay bekleme başlatma, komutun kendisi aşağıda işlenecek
+        if (!komutlar.includes(npcName.toLowerCase())) {
+            // NPC ismiyle eşleşiyorsa roleplay bekleme başlat
+            const npcs = loadData(NPC_DATA_FILE);
+            if (!Object.values(npcs).some(npc => npc.name.toLowerCase() === npcName.toLowerCase())) return;
+            // Mesajı gönder ve referansını al
+            const waitMsg = await message.channel.send(`<@${message.author.id}> Kurgu mesajını yaz, seni dinliyorum...`);
+            // Kullanıcıyı bekleme moduna alırken mesaj referansını da sakla
+            userRoleplayWait.set(message.author.id, { npcName, waitMsgId: waitMsg.id });
+            try { await message.delete(); } catch (e) { /* yetki yoksa hata verme */ }
+            return;
+        }
     }
     // Eğer kullanıcı bekleme modundaysa, roleplay olarak işle
     if (userRoleplayWait.has(message.author.id)) {
